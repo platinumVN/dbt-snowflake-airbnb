@@ -1,4 +1,4 @@
-### Using the dbt project
+### Using the Airbnb pipeline dbt project
 
 Try running the following commands:
 - dbt run
